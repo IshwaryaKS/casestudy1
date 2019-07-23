@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(plugin="json:target\\jsonReporttt.json")
+@CucumberOptions(features="Features/a7.feature",plugin="json:target\\jsonReporttt.json")
 public class run {
 
 }
