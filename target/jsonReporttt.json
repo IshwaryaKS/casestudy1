@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2019-07-23T04:41:10.335Z",
+        "start_timestamp": "2019-07-23T07:08:16.507Z",
         "line": 16,
         "name": "login testme",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 56997651400,
+              "duration": 52787857600,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 1704284100,
+              "duration": 820901200,
               "status": "passed"
             },
             "line": 6,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 311490300,
+              "duration": 170101600,
               "status": "passed"
             },
             "line": 7,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 221831700,
+              "duration": 248536800,
               "status": "passed"
             },
             "line": 8,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 623552600,
+              "duration": 746521600,
               "status": "passed"
             },
             "line": 9,
@@ -91,7 +91,7 @@
           },
           {
             "result": {
-              "duration": 430335900,
+              "duration": 595741300,
               "status": "passed"
             },
             "line": 10,
@@ -103,7 +103,7 @@
           },
           {
             "result": {
-              "duration": 1825791600,
+              "duration": 2365485500,
               "status": "passed"
             },
             "line": 11,
@@ -115,7 +115,7 @@
           },
           {
             "result": {
-              "duration": 674484500,
+              "duration": 642150400,
               "status": "passed"
             },
             "line": 12,
@@ -132,7 +132,7 @@
     "description": " registering into testMe app",
     "id": "registration",
     "keyword": "Feature",
-    "uri": "classpath:case1/a7.feature",
+    "uri": "file:src/test/resources/Features/a7.feature",
     "tags": []
   }
 ]
